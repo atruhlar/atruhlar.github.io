@@ -1,0 +1,9 @@
+name: "io-site"
+output_dir: "."
+navbar:
+  title: "Cayuga Lake Watershed Intermunicipal Organization"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
