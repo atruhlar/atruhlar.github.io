@@ -1,0 +1,15 @@
+---
+title: "Meeting Minutes"
+---
+<br>
+<div class="panel panel-default">
+<table class="table">
+<thread>
+<th>Minutes</th>
+<th>Agenda</th>
+</thread>
+<tbody>
+<tr>
+<td><a href="https://atruhlar.io/github.io/io_site"
+</table>
+</div>
