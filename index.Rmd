@@ -3,12 +3,12 @@
 <h1> Cayuga Lake Watershed Intermunicipal Organization </h1>
 <br>
 <div class="jumbotron">
-  <p class="lead"><em>The municipalities within the Cayuga Lake watershed recognize the <br> enormous and
+  <p class="lead">The municipalities within the Cayuga Lake watershed recognize the <br> enormous and
   irreplaceable ecological, economic and social value of <br> Cayuga Lake, its tributaries, and its wetlands. 
   <br><br>
   The **purpose** of the Intermunicipal Organization is to bring the watershed municipalities together to
   work collectively and collaboratively on monitoring, protecting, and restoring the health of the
-  watershed.</em></p>
+  watershed.</p>
 </div>
 
 </center>
