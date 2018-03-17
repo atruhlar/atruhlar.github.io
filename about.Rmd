@@ -12,12 +12,8 @@ title: "About the IO"
 </div>
 
 <div class="panel panel-info">
-  <div class="panel-heading">
-    <p class="panel-title">Panel info</p>
-  </div>
-  <div class="panel-body">
-    <p>Panel content</p>
-  </div>
+  <div class="panel-heading">Upcoming events</div>
+  <div class="panel-body">Panel content</div>
 </div>
 
 - Coming events
