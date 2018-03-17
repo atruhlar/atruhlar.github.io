@@ -2,6 +2,9 @@
 title: "Cayuga Lake Watershed Intermunicipal Organization"
 ---
 
-## Mission Statement
-
-<center>**The municipalities within the Cayuga Lake watershed recognize the enormous and irreplaceable ecological, economic and social value of Cayuga Lake, its tributaries, and its wetlands. The purpose of the Intermunicipal Organization is to bring the watershed municipalities together to work collectively and collaboratively on monitoring, protecting, and restoring the health of the watershed.**</center>
+<br>
+<h1> Mission Statement</h1>
+<br>
+<h4 class="text-info"><em>
+The municipalities within the Cayuga Lake watershed recognize the enormous and irreplaceable ecological, economic and social value of Cayuga Lake, its tributaries, and its wetlands. The purpose of the Intermunicipal Organization is to bring the watershed municipalities together to work collectively and collaboratively on monitoring, protecting, and restoring the health of the watershed.
+</em></h4>

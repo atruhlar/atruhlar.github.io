@@ -1,8 +1,16 @@
 ---
-title: "About the Intermunicipal Organizaion"
+title: "About the IO"
 ---
+<div class="jumbotron">
+  <center><p class="lead">IO meetings take place the 4th Wednesday of the month
+  <br>7pm in the Ithaca Town Hall.</p></center>
+  <hr class="my-4">
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="minutes.html" role="button">Meeting minutes</a>
+  </p>
+</div>
 
-IO meeting times and locations, minutes
-Coming events
-Current members
-Map of municipalities
+- Meeting minutes
+- Coming events
+- Current members
+- Map of municipalities
