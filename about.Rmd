@@ -13,10 +13,10 @@ title: "About the IO"
 
 <div class="panel panel-info">
   <div class="panel-heading">
-    <h3>Panel info</h3>
+    <p class="panel-title">Panel info</p>
   </div>
   <div class="panel-body">
-    Panel content
+    <p>Panel content</p>
   </div>
 </div>
 
