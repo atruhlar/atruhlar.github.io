@@ -11,6 +11,14 @@ title: "About the IO"
   </p></center>
 </div>
 
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3>Panel info</h3>
+  </div>
+  <div class="panel-body">
+    Panel content
+  </div>
+</div>
 
 - Coming events
 - Current members
