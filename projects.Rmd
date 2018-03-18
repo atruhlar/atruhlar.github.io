@@ -1,0 +1,65 @@
+---
+title: "IO-sponsored projects"
+---
+
+<br>
+<div class="panel panel-default">
+<table class="table">
+<thread>
+<th>Project Location</th>
+<th>Project Type</th>
+<th>Year</th>
+<th>Grant Funding (Total Cost)</th>
+</thread>
+<tbody>
+<tr>
+<td>Six Mile Creek, Town of Caroline</td>
+<td>Stream restoration</td>
+<td>2005</td>
+<td>$132,200 ($650,000 + funds from DEC, SWCD, City of Ithaca, CCAP, Town of Caroline, Triad Foundation)</td>
+</tr>
+<tr>
+<td>Virgil Creek, Town of Dryden</td>
+<td>Stream restoration</td>
+<td>2005</td>
+<td>$47,000 ($500,000 funds from FEMA and Town of Dryden)</td>
+</tr>
+<tr>
+<td>Genoa/Lansing Town Line Road, Town of Genoa</td>
+<td>Roadbank stabilization</td>
+<td>2005</td>
+<td>$3,000 ($22,000 labor and equipment from Town of Genoa)</td>
+</tr>
+<tr>
+<td>Wyers Point Road, Town of Ovid</td>
+<td>Consulting on roadbank stabilization</td>
+<td>2005</td>
+<td>Engineer volunteered time to discuss options</td>
+</tr>
+<tr>
+<td>Salt Point, Town of Lansing</td>
+<td>Habitat restoration</td>
+<td>2007</td>
+<td>$51,000 (total $102,000; $51,000 local match)</td>
+</tr>
+<tr>
+<td>Watershed-wide</td>
+<td>Hydroseeding work in four counties</td>
+<td>2009</td>
+<td>$26,500 (total $53,000)</td>
+</tr>
+<tr>
+<td>Interlaken</td>
+<td>Stormwater retention</td>
+<td>2009-2012</td>
+<td>$34,000 (total $68,000; $34,000 in-kind match)</td>
+</tr>
+<tr>
+<td>Watershed-wide</td>
+<td>RPP Update</td>
+<td>2015-2016</td>
+<td>$29,700 (total $58,400)</td>
+</tr>
+</tbody>
+</table>
+</div>
