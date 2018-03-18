@@ -23,6 +23,8 @@ title: "About the IO"
 </table>
 </div>
 </div>
+<div class="col-md-2">
 </div>
-
+<div class="col-md-5">
 - Map of municipalities
+</div>
