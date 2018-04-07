@@ -2,16 +2,18 @@
 title: "Meeting Minutes"
 ---
 <br>
-<div class="panel panel-default">
-<table class="table">
-<thread>
-<th>Minutes</th>
-<th>Agenda</th>
-</thread>
-<tbody>
-<tr>
-<td><a href="documents/minutes_022818.pdf">Minutes, 02/28/18</a></td>
-<td><a href="documents/agenda_022818.pdf">Agenda, 02/28/18</a></td>
-</tr>
-</table>
+<div class="panel-primary">
+<div class="panel-heading">Minutes</div>
+<div class="list-group">
+<a href="documents/minutes/minutes_032818.pdf" target="_blank" class="list-group-item">Minutes, 03/28/18</a>
+<a href="documents/minutes/minutes_022818.pdf" target="_blank" class="list-group-item">Minutes, 02/28/18</a>
+<a href="documents/minutes/minutes_012418.pdf" target="_blank" class="list-group-item">Minutes, 01/24/18</a>
+<a href="documents/minutes/minutes_102517.pdf" target="_blank" class="list-group-item">Minutes, 10/25/17</a>
+<a href="documents/minutes/minutes_092717.pdf" target="_blank" class="list-group-item">Minutes, 09/27/17</a>
+<a href="documents/minutes/minutes_072617.pdf" target="_blank" class="list-group-item">Minutes, 07/26/17</a>
+<a href="documents/minutes/minutes_062817.pdf" target="_blank" class="list-group-item">Minutes, 06/28/17</a>
+<a href="documents/minutes/minutes_042617.pdf" target="_blank" class="list-group-item">Minutes, 04/26/17</a>
+<a href="documents/minutes/minutes_032217.pdf" target="_blank" class="list-group-item">Minutes, 03/22/17</a>
+<a href="documents/minutes/minutes_022217.pdf" target="_blank" class="list-group-item">Minutes, 02/22/17</a>
+<a href="documents/minutes/minutes_012517.pdf" target="_blank" class="list-group-item">Minutes, 01/25/17</a>
 </div>
