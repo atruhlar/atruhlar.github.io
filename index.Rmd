@@ -15,7 +15,7 @@
 
 <div class="panel panel-primary">
 <div class="panel-heading">IO Membership</div>
-<div class="panel-body"><h5>The Intermunicipal Organization is made up of appointed representatives from the municipalities within the Cayuga Lake watershed.</h5>
+<div class="panel-body"><h5>The Intermunicipal Organization consists of appointed representatives from the municipalities within the Cayuga Lake watershed.</h5>
 <p>- For more information about joining the IO, please email XXX.<br>
 - <a href="about.html">Current member municipalites</a></p></div>
 </div>
@@ -24,7 +24,7 @@
 <div class="col-md-7">
 <div class="panel panel-info">
 <div class="panel-heading">Upcoming events</div>
-<div class="panel-body"><h4>**Watershed Summit**</h4>**Where:** Seneca Falls Community Center, 35 Water St., Seneca Falls NY<br>**When:** Thursday, April 19, 2018, 8:30 a.m. - 1:30 p.m.<br><a href="summitAgenda.pdf">**Agenda**</a></div>
+<div class="panel-body"><h4>**Watershed Summit**</h4>**Where:** Seneca Falls Community Center, 35 Water St., Seneca Falls NY<br>**When:** Thursday, April 19, 2018, 8:30 a.m. - 1:30 p.m.<br>**Agenda:**<a href="documents/summitAgenda.pdf" target="_blank"> Available here</a></div>
 </div></div>
 <div class="col-md-5">
 <div class="panel panel-success">
