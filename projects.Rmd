@@ -1,6 +1,3 @@
----
-title: "IO-sponsored projects"
----
 <br>
 <div class="panel panel-success">
 <div class="panel-heading">

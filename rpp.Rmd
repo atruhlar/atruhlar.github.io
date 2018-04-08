@@ -1,6 +1,3 @@
----
-title: "Watershed Characterization and Management Plans"
----
 <br>
 <div class="row">
 
@@ -8,7 +5,7 @@ title: "Watershed Characterization and Management Plans"
 <div class="thumbnail">
 <img src="images/characterization_cover.jpg" alt="Watershed characterization cover">
 <div class="caption">
-<center><h3><a href="documents/CLW_characterization_2000.pdf">Cayuga Lake Watershed Characterization</a></h3></center>
+<center><h3><a href="documents/CLW_characterization_2000.pdf" target="_blank">Cayuga Lake Watershed Characterization</a></h3></center>
 </div>
 </div>
 </div>
@@ -17,7 +14,7 @@ title: "Watershed Characterization and Management Plans"
 <div class="thumbnail">
 <img src="images/2001rpp_cover.jpg" alt="2001 RPP cover">
 <div class="caption">
-<center><h3><a href="documents/CLW_RPP_2001.pdf">2001 Restoration and Protection Plan</a></h3></center>
+<center><h3><a href="documents/CLW_RPP_2001.pdf" target="_blank">2001 Restoration and Protection Plan</a></h3></center>
 </div>
 </div>
 </div>
@@ -26,7 +23,7 @@ title: "Watershed Characterization and Management Plans"
 <div class="thumbnail">
 <img src="images/2017rpp_cover.jpg" alt="2017 RPP cover">
 <div class="caption">
-<center><h3><a href="documents/clwrpp_2017.pdf">2017 Restoration and Protection Plan</a></h3></center>
+<center><h3><a href="documents/clwrpp_2017.pdf" target="_blank">2017 Restoration and Protection Plan</a></h3></center>
 </div>
 </div>
 </div>
