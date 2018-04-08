@@ -10,8 +10,6 @@ navbar:
       href: rpp.html
     - text: "Projects"
       href: projects.html
-    - text: "Resources"
-      href: resources.html
 output:
   html_document:
     theme: flatly

@@ -1,6 +1,8 @@
-<center>
+---
+title: "Cayuga Lake Watershed Intermunicipal Organization"
+---
 
-<h1> Cayuga Lake Watershed Intermunicipal Organization </h1>
+<center>
 <br>
 <div class="jumbotron">
   <p class="lead">The municipalities within the Cayuga Lake watershed recognize the <br> enormous and

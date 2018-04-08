@@ -1,14 +1,34 @@
 ---
-title: "Cayuga Lake Watershed Restoration and Protection Plan"
+title: "Watershed Characterization and Management Plans"
 ---
 <br>
 <div class="row">
+
 <div class="col-sm-6 col-md-4">
 <div class="thumbnail">
-<img data-src="images/2001rpp_cover.jpg">
+<img src="images/characterization_cover.jpg" alt="Watershed characterization cover">
 <div class="caption">
-<h3><a href="documents/CLW_RPP_2001.pdf">2001 Restoration and Protection Plan</a></h3>
+<center><h3><a href="documents/CLW_characterization_2000.pdf">Cayuga Lake Watershed Characterization</a></h3></center>
 </div>
 </div>
 </div>
+
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail">
+<img src="images/2001rpp_cover.jpg" alt="2001 RPP cover">
+<div class="caption">
+<center><h3><a href="documents/CLW_RPP_2001.pdf">2001 Restoration and Protection Plan</a></h3></center>
+</div>
+</div>
+</div>
+
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail">
+<img src="images/2017rpp_cover.jpg" alt="2017 RPP cover">
+<div class="caption">
+<center><h3><a href="documents/clwrpp_2017.pdf">2017 Restoration and Protection Plan</a></h3></center>
+</div>
+</div>
+</div>
+
 </div>
