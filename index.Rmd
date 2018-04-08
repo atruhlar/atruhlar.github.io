@@ -15,13 +15,6 @@ title: "Cayuga Lake Watershed Intermunicipal Organization"
 
 </center>
 
-<div class="panel panel-primary">
-<div class="panel-heading">IO Membership</div>
-<div class="panel-body"><h5>The Intermunicipal Organization consists of appointed representatives from municipalities within the Cayuga Lake watershed.</h5>
-<p>- For more information about joining the IO, please email XXX.<br>
-- <a href="about.html">Current member municipalites</a></p></div>
-</div>
-
 <div class=row>
 <div class="col-md-7">
 <div class="panel panel-info">
