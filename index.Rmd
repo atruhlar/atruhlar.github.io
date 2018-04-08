@@ -1,10 +1,14 @@
 ---
-title: "Cayuga Lake Watershed Intermunicipal Organization"
+output:
+  html_document:
+    css: home.css
 ---
 
 <center>
 <br>
 <div class="jumbotron">
+<div class="container">
+  <h2>Welcome to the Cayuga Lake Watershed Intermunicipal Organization</h2><p><br></p>
   <p class="lead">The municipalities within the Cayuga Lake watershed recognize the <br> enormous and
   irreplaceable ecological, economic and social value of <br> Cayuga Lake, its tributaries, and its wetlands. 
   <br><br>
@@ -12,18 +16,22 @@ title: "Cayuga Lake Watershed Intermunicipal Organization"
   work collectively and collaboratively on monitoring, protecting, and restoring the health of the
   watershed.</p>
 </div>
+</div>
 
+<br>
 </center>
 
 <div class=row>
 <div class="col-md-7">
 <div class="panel panel-info">
-<div class="panel-heading">Upcoming events</div>
+<div class="panel-heading">
+<h2 class="panel-title">Upcoming events</h2></div>
 <div class="panel-body"><h4>**Watershed Summit**</h4>**Where:** Seneca Falls Community Center, 35 Water St., Seneca Falls NY<br>**When:** Thursday, April 19, 2018, 8:30 a.m. - 1:30 p.m.<br>**Agenda:**<a href="documents/summitAgenda.pdf" target="_blank"> Available here</a></div>
 </div></div>
 <div class="col-md-5">
 <div class="panel panel-success">
-<div class="panel-heading">2017 Restoration and Protection Plan</div>
+<div class="panel-heading">
+<h2 class="panel-title">2017 Restoration and Protection Plan</h2></div>
 <div class="panel-body">In 2017, the IO completed a revision of the Cayuga Lake Watershed Restoration and Protection Plan. Download the full document <a href="rpp.html">here.</a></div>
 </div></div>
 </div>
